@@ -49,6 +49,12 @@ duckdb.sql("""
 """).show()
 ```
 
+Подробные примеры — от отдельной ячейки паспорта до временных рядов, сравнения регионов и графиков — собраны в тетрадке Jupyter [docs/examples.ipynb](docs/examples.ipynb). Она работает по Parquet и не требует сборки базы:
+
+```bash
+make venv && make notebook
+```
+
 Полная база с представлениями (`v_value`, `v_indicator`, `v_column`) собирается из скачанных архивов:
 
 ```bash
@@ -88,6 +94,7 @@ docs/
   source-format.md        содержание и формат исходных файлов
   database.md             схема базы и примеры запросов
   collection.md           API портала, доступ, обновление, пересмотры
+  examples.ipynb          тетрадка Jupyter с примерами работы с базой
   catalog/                показатели по разделам и годам (генерируется)
 tests/                    тесты парсера и базы
 download.sh               обёртка над `regtaxpassports collect`
