@@ -138,6 +138,8 @@ passport_revision / value_revision: изменения относительно 
 
 DuckDB CLI: `duckdb data/db/regtaxpassports.duckdb`. Python: `duckdb.connect("data/db/regtaxpassports.duckdb", read_only=True)`. Без базы те же запросы работают по Parquet: `FROM 'data/parquet/value.parquet'`.
 
+Развёрнутые примеры с пояснениями и графиками — в тетрадке [examples.ipynb](examples.ipynb): восстановление раздела в исходном виде, поиск показателей, ряды по годам при смене кодов строк, сравнение регионов, структура поступлений, сверка с показателями карты портала и пересмотры. Тетрадка открывается командой `make notebook`.
+
 ВРП Томской области по годам паспортов (раздел 1, строка 101, графа 3):
 
 ```sql

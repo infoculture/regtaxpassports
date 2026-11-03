@@ -13,6 +13,8 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
+# тетрадка с примерами docs/examples.ipynb
+notebook = ["pandas>=2.2", "matplotlib>=3.8", "jupyterlab>=4"]
 
 [project.scripts]
 regtaxpassports = "regtaxpassports.cli:main"
