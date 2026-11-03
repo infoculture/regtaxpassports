@@ -1,0 +1,42 @@
+{
+ "year": 2014,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 22,
+   "name": "Количество выездных налоговых проверок",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 30970.0,
+   "valueDifference": null,
+   "unitValue": "ед.",
+   "unitDifference": "%"
+  },
+  {
+   "id": 23,
+   "name": "Дополнительно начислено платежей по выездным проверкам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 411153.731,
+   "valueDifference": 104.901786,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 24,
+   "name": "Количество выездных налоговых проверок организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 29458.0,
+   "valueDifference": 88.720899,
+   "unitValue": "ед.",
+   "unitDifference": "%"
+  }
+ ]
+}

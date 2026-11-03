@@ -1,0 +1,64 @@
+{
+ "year": 2018,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 17,
+   "name": "Сумма налога на прибыль организаций, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 316755.993,
+   "valueDifference": 140.491878,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 18,
+   "name": "Сумма налога на имущество организаций, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 367571.527,
+   "valueDifference": 82.505155,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 19,
+   "name": "Сумма земельного налога, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 62281.88,
+   "valueDifference": 96.559211,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 20,
+   "name": "Сумма транспортного налога, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 16895.469,
+   "valueDifference": 112.008132,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 21,
+   "name": "Сумма налога на имущество физических лиц, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 31274.337,
+   "valueDifference": 108.817047,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

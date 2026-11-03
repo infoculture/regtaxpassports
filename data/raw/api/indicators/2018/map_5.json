@@ -1,0 +1,97 @@
+{
+ "year": 2018,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 27,
+   "name": "Всего поступило по администрируемым доходам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 21328495.411,
+   "valueDifference": 122.977334,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 28,
+   "name": "Налог на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 4099996.267,
+   "valueDifference": 124.620231,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 29,
+   "name": "НДФЛ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 3652985.684,
+   "valueDifference": 112.361017,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 30,
+   "name": "НДС на товары, реализуемые на территории РФ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 3574613.815,
+   "valueDifference": 116.439655,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 31,
+   "name": "Акцизы",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1493162.933,
+   "valueDifference": 98.152399,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 32,
+   "name": "Налоги на имущество",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1396817.291,
+   "valueDifference": 111.720458,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 33,
+   "name": "НДПИ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 6127369.049,
+   "valueDifference": 148.347204,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 34,
+   "name": "Налог, взимаемый в связи с применением УСН",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 422182.222,
+   "valueDifference": 122.300403,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

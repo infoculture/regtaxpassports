@@ -1,0 +1,53 @@
+{
+ "year": 2017,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 46,
+   "name": "Совокупная задолженность ( с учетом страховых взносов)",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 2122884.308,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 47,
+   "name": "По федеральным налогам и сборам",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 870604.111,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 48,
+   "name": "По региональным налогам и сборам",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 180009.014,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 49,
+   "name": "По местным налогам и сборам",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 89616.47,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

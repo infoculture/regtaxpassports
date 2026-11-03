@@ -1,0 +1,108 @@
+{
+ "year": 2017,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 1,
+   "name": "Валовой внутренний/региональный продукт",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млрд",
+   "value": 86148.6,
+   "valueDifference": 103.3,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 2,
+   "name": "Индекс промышленного производства",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 101.0,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 3,
+   "name": "Оборот розничной торговли",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млрд",
+   "value": 29804.0,
+   "valueDifference": 105.250147,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 4,
+   "name": "Сальдированный финансовый результат (прибыль минус убыток)",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млрд",
+   "value": 10320.528,
+   "valueDifference": 89.1,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 5,
+   "name": "Индекс потребительских цен (декабрь к декабрю)",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 102.5,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 6,
+   "name": "Среднемесячная начисленная заработная плата",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 44907.0,
+   "valueDifference": 107.928764,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 7,
+   "name": "Численность рабочей силы (экономически активного населения)",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "тыс",
+   "value": 76100.0,
+   "valueDifference": 99.217731,
+   "unitValue": "чел.",
+   "unitDifference": "%"
+  },
+  {
+   "id": 8,
+   "name": "Количество муниципальных образований",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 22109.0,
+   "valueDifference": null,
+   "unitValue": "ед.",
+   "unitDifference": ""
+  },
+  {
+   "id": 9,
+   "name": "Численность населения",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "тыс",
+   "value": 146880.432,
+   "valueDifference": 100.051791,
+   "unitValue": "чел.",
+   "unitDifference": "%"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "year": 2021,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 22,
+   "name": "Количество выездных налоговых проверок",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 8121.0,
+   "valueDifference": 131.748864,
+   "unitValue": "ед.",
+   "unitDifference": "%"
+  },
+  {
+   "id": 23,
+   "name": "Дополнительно начислено платежей по выездным проверкам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 384516.395,
+   "valueDifference": 195.215525,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 24,
+   "name": "Количество выездных налоговых проверок организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 7244.0,
+   "valueDifference": 131.924968,
+   "unitValue": "ед.",
+   "unitDifference": "%"
+  },
+  {
+   "id": 25,
+   "name": "Количество камеральных налоговых проверок",
+   "startYear": 2015,
+   "endYear": null,
+   "scale": null,
+   "value": 58894309.0,
+   "valueDifference": 95.697521,
+   "unitValue": "ед.",
+   "unitDifference": "%"
+  },
+  {
+   "id": 26,
+   "name": "Дополнительно начислено платежей по камеральным проверкам",
+   "startYear": 2015,
+   "endYear": null,
+   "scale": "млн",
+   "value": 89272.846,
+   "valueDifference": 169.983737,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

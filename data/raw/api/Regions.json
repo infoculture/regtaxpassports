@@ -1,0 +1,722 @@
+[
+ {
+  "id": 0,
+  "label": "Все регионы",
+  "year": 2014,
+  "yearForPassport": 0,
+  "parentId": null,
+  "code": null
+ },
+ {
+  "id": 37,
+  "label": "Алтайский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 22
+ },
+ {
+  "id": 26,
+  "label": "Амурская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 28
+ },
+ {
+  "id": 64,
+  "label": "Архангельская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 29
+ },
+ {
+  "id": 44,
+  "label": "Астраханская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 30
+ },
+ {
+  "id": 55,
+  "label": "Белгородская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 31
+ },
+ {
+  "id": 56,
+  "label": "Брянская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 32
+ },
+ {
+  "id": 57,
+  "label": "Владимирская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 33
+ },
+ {
+  "id": 74,
+  "label": "Волгоградская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 34
+ },
+ {
+  "id": 65,
+  "label": "Вологодская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 35
+ },
+ {
+  "id": 58,
+  "label": "Воронежская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 36
+ },
+ {
+  "id": 45,
+  "label": "г. Москва",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 77
+ },
+ {
+  "id": 78,
+  "label": "г. Санкт-Петербург",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 78
+ },
+ {
+  "id": 31,
+  "label": "г.Севастополь",
+  "year": 2015,
+  "yearForPassport": 2015,
+  "parentId": 4,
+  "code": 92
+ },
+ {
+  "id": 86,
+  "label": "Донецкая Народная Республика",
+  "year": 2023,
+  "yearForPassport": 2027,
+  "parentId": 9,
+  "code": 93
+ },
+ {
+  "id": 42,
+  "label": "Еврейская автономная область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 79
+ },
+ {
+  "id": 30,
+  "label": "Забайкальский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 75
+ },
+ {
+  "id": 89,
+  "label": "Запорожская область",
+  "year": 2023,
+  "yearForPassport": 2027,
+  "parentId": 9,
+  "code": 90
+ },
+ {
+  "id": 59,
+  "label": "Ивановская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 37
+ },
+ {
+  "id": 35,
+  "label": "Иркутская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 38
+ },
+ {
+  "id": 75,
+  "label": "Кабардино-Балкарская Республика",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 7
+ },
+ {
+  "id": 83,
+  "label": "Калининградская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 39
+ },
+ {
+  "id": 60,
+  "label": "Калужская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 40
+ },
+ {
+  "id": 25,
+  "label": "Камчатский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 41
+ },
+ {
+  "id": 73,
+  "label": "Карачаево-Черкесская Республика",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 9
+ },
+ {
+  "id": 34,
+  "label": "Кемеровская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 42
+ },
+ {
+  "id": 12,
+  "label": "Кировская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 43
+ },
+ {
+  "id": 61,
+  "label": "Костромская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 44
+ },
+ {
+  "id": 66,
+  "label": "Краснодарский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 23
+ },
+ {
+  "id": 36,
+  "label": "Красноярский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 24
+ },
+ {
+  "id": 4,
+  "label": "Курганская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 45
+ },
+ {
+  "id": 1,
+  "label": "Курская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 46
+ },
+ {
+  "id": 82,
+  "label": "Ленинградская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 47
+ },
+ {
+  "id": 54,
+  "label": "Липецкая область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 48
+ },
+ {
+  "id": 88,
+  "label": "Луганская Народная Республика",
+  "year": 2023,
+  "yearForPassport": 2027,
+  "parentId": 9,
+  "code": 94
+ },
+ {
+  "id": 24,
+  "label": "Магаданская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 49
+ },
+ {
+  "id": 53,
+  "label": "Московская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 50
+ },
+ {
+  "id": 81,
+  "label": "Мурманская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 51
+ },
+ {
+  "id": 77,
+  "label": "Ненецкий АО",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 83
+ },
+ {
+  "id": 11,
+  "label": "Нижегородская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 52
+ },
+ {
+  "id": 80,
+  "label": "Новгородская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 53
+ },
+ {
+  "id": 33,
+  "label": "Новосибирская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 54
+ },
+ {
+  "id": 41,
+  "label": "Омская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 55
+ },
+ {
+  "id": 10,
+  "label": "Оренбургская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 56
+ },
+ {
+  "id": 52,
+  "label": "Орловская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 57
+ },
+ {
+  "id": 9,
+  "label": "Пензенская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 58
+ },
+ {
+  "id": 8,
+  "label": "Пермский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 59
+ },
+ {
+  "id": 28,
+  "label": "Приморский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 25
+ },
+ {
+  "id": 79,
+  "label": "Псковская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 60
+ },
+ {
+  "id": 69,
+  "label": "Республика Адыгея",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 1
+ },
+ {
+  "id": 22,
+  "label": "Республика Алтай",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 4
+ },
+ {
+  "id": 18,
+  "label": "Республика Башкортостан",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 2
+ },
+ {
+  "id": 40,
+  "label": "Республика Бурятия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 3
+ },
+ {
+  "id": 76,
+  "label": "Республика Дагестан",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 5
+ },
+ {
+  "id": 84,
+  "label": "Республика Ингушетия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 6
+ },
+ {
+  "id": 68,
+  "label": "Республика Калмыкия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 8
+ },
+ {
+  "id": 62,
+  "label": "Республика Карелия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 10
+ },
+ {
+  "id": 63,
+  "label": "Республика Коми",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 2,
+  "code": 11
+ },
+ {
+  "id": 67,
+  "label": "Республика Крым",
+  "year": 2015,
+  "yearForPassport": 2015,
+  "parentId": 4,
+  "code": 91
+ },
+ {
+  "id": 17,
+  "label": "Республика Марий Эл",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 12
+ },
+ {
+  "id": 16,
+  "label": "Республика Мордовия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 13
+ },
+ {
+  "id": 29,
+  "label": "Республика Саха (Якутия)",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 14
+ },
+ {
+  "id": 72,
+  "label": "Республика Северная Осетия-Алания",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 15
+ },
+ {
+  "id": 15,
+  "label": "Республика Татарстан",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 16
+ },
+ {
+  "id": 39,
+  "label": "Республика Тыва",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 17
+ },
+ {
+  "id": 38,
+  "label": "Республика Хакасия",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 19
+ },
+ {
+  "id": 43,
+  "label": "Ростовская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 4,
+  "code": 61
+ },
+ {
+  "id": 51,
+  "label": "Рязанская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 62
+ },
+ {
+  "id": 7,
+  "label": "Самарская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 63
+ },
+ {
+  "id": 6,
+  "label": "Саратовская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 64
+ },
+ {
+  "id": 23,
+  "label": "Сахалинская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 65
+ },
+ {
+  "id": 3,
+  "label": "Свердловская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 66
+ },
+ {
+  "id": 50,
+  "label": "Смоленская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 67
+ },
+ {
+  "id": 70,
+  "label": "Ставропольский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 26
+ },
+ {
+  "id": 49,
+  "label": "Тамбовская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 68
+ },
+ {
+  "id": 48,
+  "label": "Тверская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 69
+ },
+ {
+  "id": 32,
+  "label": "Томская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 7,
+  "code": 70
+ },
+ {
+  "id": 47,
+  "label": "Тульская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 71
+ },
+ {
+  "id": 2,
+  "label": "Тюменская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 72
+ },
+ {
+  "id": 14,
+  "label": "Удмуртская Республика",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 18
+ },
+ {
+  "id": 5,
+  "label": "Ульяновская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 73
+ },
+ {
+  "id": 27,
+  "label": "Хабаровский край",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 27
+ },
+ {
+  "id": 20,
+  "label": "Ханты-Мансийский АО-Югра",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 86
+ },
+ {
+  "id": 87,
+  "label": "Херсонская область",
+  "year": 2023,
+  "yearForPassport": 2027,
+  "parentId": 9,
+  "code": 95
+ },
+ {
+  "id": 19,
+  "label": "Челябинская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 74
+ },
+ {
+  "id": 71,
+  "label": "Чеченская Республика",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 3,
+  "code": 20
+ },
+ {
+  "id": 13,
+  "label": "Чувашская Республика",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 5,
+  "code": 21
+ },
+ {
+  "id": 85,
+  "label": "Чукотский автономный округ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 8,
+  "code": 87
+ },
+ {
+  "id": 21,
+  "label": "Ямало-Ненецкий АО",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 6,
+  "code": 89
+ },
+ {
+  "id": 46,
+  "label": "Ярославская область",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": 1,
+  "code": 76
+ }
+]

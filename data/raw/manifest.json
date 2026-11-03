@@ -1,0 +1,115 @@
+{
+ "source": "https://analytic.nalog.gov.ru/api/TaxPassports",
+ "exports": [
+  {
+   "path": "data/raw/exports/2014.zip",
+   "year": 2014,
+   "bytes": 6475917,
+   "sha256": "326877baaa9217518171cf0eca1b3b73e524ed982e71f21cd1fc7e7c2590864c",
+   "content_sha256": "56abfe0613d68e00aa3efc478ca8d87958fa3f1ad3243f409358e5f7278f30f4",
+   "files_in_zip": 92,
+   "unpacked_bytes": 17682944,
+   "fetched_at": "2026-11-03T07:09:19+00:00"
+  },
+  {
+   "path": "data/raw/exports/2015.zip",
+   "year": 2015,
+   "bytes": 6943998,
+   "sha256": "040aa9147a8cc5ce3019117f821e3a49b1ef8240f4dfe87cd19e98152c15f577",
+   "content_sha256": "c3579826146fad83b3e7e45ff6a1fdc6d8640382acb223ad89a0b95e1435bdaf",
+   "files_in_zip": 94,
+   "unpacked_bytes": 19146752,
+   "fetched_at": "2026-11-03T07:10:58+00:00"
+  },
+  {
+   "path": "data/raw/exports/2016.zip",
+   "year": 2016,
+   "bytes": 6939937,
+   "sha256": "004732758e2fd2b7796a299450c667e18f922eeaf7cf16ce7b66b6c741d5221b",
+   "content_sha256": "54ecad7ea4e6696f33d87c0dfd7b179aa218725cb7604e407954c0637a802944",
+   "files_in_zip": 94,
+   "unpacked_bytes": 19067904,
+   "fetched_at": "2026-11-03T07:12:42+00:00"
+  },
+  {
+   "path": "data/raw/exports/2017.zip",
+   "year": 2017,
+   "bytes": 7262791,
+   "sha256": "0b5219597b5ab34fce7b05d60ce220bac607cfea7d5595b59fcb2b40c861369a",
+   "content_sha256": "7f97ba1e7945ca02bc56103d7314b52ad6bf0becf23a48a1c88bba2bd10c82f8",
+   "files_in_zip": 94,
+   "unpacked_bytes": 18404352,
+   "fetched_at": "2026-11-03T07:14:22+00:00"
+  },
+  {
+   "path": "data/raw/exports/2018.zip",
+   "year": 2018,
+   "bytes": 7151401,
+   "sha256": "cca4269c40f4a305cac0b144901937c91fc7a1a6bd311d26217e2e7b7abac09d",
+   "content_sha256": "9a099d919d56838f6fa8c391fa22991fdb4c6f25c5eca1554712ff40c4b59df9",
+   "files_in_zip": 94,
+   "unpacked_bytes": 18068992,
+   "fetched_at": "2026-11-03T07:16:16+00:00"
+  },
+  {
+   "path": "data/raw/exports/2019.zip",
+   "year": 2019,
+   "bytes": 7076206,
+   "sha256": "a99968600f9c8bda459e5f34c588c83b18d77b550f69c62cf757d2d0bef19697",
+   "content_sha256": "916f5f44cb0644ca834f8e8e165409308c661c3e629c70cdc1e933b2ec58d2b4",
+   "files_in_zip": 94,
+   "unpacked_bytes": 17771008,
+   "fetched_at": "2026-11-03T07:18:10+00:00"
+  },
+  {
+   "path": "data/raw/exports/2020.zip",
+   "year": 2020,
+   "bytes": 7064166,
+   "sha256": "eaabc9b8f3b174884db019f8fd625941ab4b991dd923c4d11764e039f21d1ada",
+   "content_sha256": "a5b5f9cb5150e41765c635573e7ea59f3fd5457fd2f90e7528d563b87672e4ad",
+   "files_in_zip": 94,
+   "unpacked_bytes": 17560064,
+   "fetched_at": "2026-11-03T07:19:59+00:00"
+  },
+  {
+   "path": "data/raw/exports/2021.zip",
+   "year": 2021,
+   "bytes": 6989451,
+   "sha256": "d39a778f03e98faa238afe175dddd86087a6bf5e31d146902db8009c4c8bd3fb",
+   "content_sha256": "ebbdcfa4de2cbfb7755b4291444b7d8523134c186ab256e03ea2da35ae1ea271",
+   "files_in_zip": 94,
+   "unpacked_bytes": 17413120,
+   "fetched_at": "2026-11-03T07:21:49+00:00"
+  },
+  {
+   "path": "data/raw/exports/2022.zip",
+   "year": 2022,
+   "bytes": 6910475,
+   "sha256": "fa17b64d5fe6602a841b356076fc3d679e8d4b9e13b3df24b89bff802309fdf7",
+   "content_sha256": "7c5587d34c1bbc355860261666351e4181b8c4bb2fc8382c47bdc50e9b455af1",
+   "files_in_zip": 94,
+   "unpacked_bytes": 17342976,
+   "fetched_at": "2026-11-03T07:23:59+00:00"
+  },
+  {
+   "path": "data/raw/exports/2023.zip",
+   "year": 2023,
+   "bytes": 6368982,
+   "sha256": "369ee244c72388902d21ce6b78ce291211529313f101ff779295a3406c5e2d5f",
+   "content_sha256": "85ad52c63e583c34dcf7b5e32dba797672ad2cbf3c83142792e9496184516c0a",
+   "files_in_zip": 94,
+   "unpacked_bytes": 15401984,
+   "fetched_at": "2026-11-03T07:26:02+00:00"
+  },
+  {
+   "path": "data/raw/exports/2024.zip",
+   "year": 2024,
+   "bytes": 6374308,
+   "sha256": "c74baa8f33b6b9b8af7ee156ae189f9c68ccfd11e8efea0de216a4f106d94915",
+   "content_sha256": "d0a57d1f8ff1df2220c5b48da4c60c5dbef1f0f98d68ede6d03de046be746fba",
+   "files_in_zip": 94,
+   "unpacked_bytes": 15397888,
+   "fetched_at": "2026-11-03T07:27:38+00:00"
+  }
+ ]
+}

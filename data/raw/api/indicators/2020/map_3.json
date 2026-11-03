@@ -1,0 +1,64 @@
+{
+ "year": 2020,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 17,
+   "name": "Сумма налога на прибыль организаций, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 251102.84,
+   "valueDifference": 67.575239,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 18,
+   "name": "Сумма налога на имущество организаций, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 251378.677,
+   "valueDifference": 106.229859,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 19,
+   "name": "Сумма земельного налога, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 53923.169,
+   "valueDifference": 93.419067,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 20,
+   "name": "Сумма транспортного налога, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 17968.602,
+   "valueDifference": 134.277143,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 21,
+   "name": "Сумма налога на имущество физических лиц, не поступившая в бюджет",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 37047.607,
+   "valueDifference": 109.453182,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

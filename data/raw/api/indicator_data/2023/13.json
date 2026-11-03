@@ -1,0 +1,667 @@
+{
+ "id": 13,
+ "name": "Налоговая база налога на имущество организаций",
+ "scale": "млн",
+ "unitValue": "₽",
+ "unitDifference": "%",
+ "items": [
+  {
+   "value": 85007.657,
+   "difference": 136.648392,
+   "regionId": 69,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 7908167.516,
+   "difference": 124.421638,
+   "regionId": null,
+   "federalRegionId": 2,
+   "heatMapType": 2
+  },
+  {
+   "value": 178762.191,
+   "difference": 100.491667,
+   "regionId": 76,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 547766.674,
+   "difference": 104.135573,
+   "regionId": 44,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 108790.329,
+   "difference": 106.420074,
+   "regionId": 72,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 187666.784,
+   "difference": 111.797686,
+   "regionId": 71,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 54679.613,
+   "difference": 138.487088,
+   "regionId": 73,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 29891.756,
+   "difference": 80.610133,
+   "regionId": 22,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 249164.975,
+   "difference": 125.723768,
+   "regionId": 37,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 5503470.609,
+   "difference": 99.144812,
+   "regionId": 21,
+   "federalRegionId": null,
+   "heatMapType": 2
+  },
+  {
+   "value": 5806728.863,
+   "difference": 110.54114,
+   "regionId": null,
+   "federalRegionId": 8,
+   "heatMapType": 3
+  },
+  {
+   "value": 66475.361,
+   "difference": 127.383197,
+   "regionId": 68,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1057221.624,
+   "difference": 110.014063,
+   "regionId": null,
+   "federalRegionId": 3,
+   "heatMapType": 4
+  },
+  {
+   "value": 46833.667,
+   "difference": 120.723053,
+   "regionId": 84,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 413462.393,
+   "difference": 109.925874,
+   "regionId": 70,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 448452.172,
+   "difference": 103.036904,
+   "regionId": 74,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 67026.647,
+   "difference": 114.372521,
+   "regionId": 75,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 18389.803,
+   "difference": 96.839492,
+   "regionId": 39,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 7600881.629,
+   "difference": 115.570271,
+   "regionId": null,
+   "federalRegionId": 5,
+   "heatMapType": 2
+  },
+  {
+   "value": 63097866.005,
+   "difference": 126.77861,
+   "regionId": null,
+   "federalRegionId": 0,
+   "heatMapType": 4
+  },
+  {
+   "value": 431571.659,
+   "difference": 122.373153,
+   "regionId": 67,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 586856.5,
+   "difference": 121.439696,
+   "regionId": 33,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 136060.928,
+   "difference": 116.682023,
+   "regionId": 38,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 76074.976,
+   "difference": 159.111044,
+   "regionId": 31,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 630846.467,
+   "difference": 113.459315,
+   "regionId": 34,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 4685295.455,
+   "difference": 102.377439,
+   "regionId": 20,
+   "federalRegionId": null,
+   "heatMapType": 3
+  },
+  {
+   "value": 1385216.331,
+   "difference": 114.394725,
+   "regionId": 3,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 866424.686,
+   "difference": 104.589398,
+   "regionId": 43,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 13204517.255,
+   "difference": 102.329338,
+   "regionId": null,
+   "federalRegionId": 6,
+   "heatMapType": 2
+  },
+  {
+   "value": 358932.966,
+   "difference": 119.897525,
+   "regionId": 41,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 111146.782,
+   "difference": 114.55803,
+   "regionId": 42,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 441192.86,
+   "difference": 109.535645,
+   "regionId": 23,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 352755.213,
+   "difference": 101.974789,
+   "regionId": 32,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 2463709.884,
+   "difference": 113.343821,
+   "regionId": 66,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1295196.7,
+   "difference": 106.215739,
+   "regionId": 36,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 676127.559,
+   "difference": 112.881359,
+   "regionId": 19,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 818134.094,
+   "difference": 96.992184,
+   "regionId": 2,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1020225.432,
+   "difference": 115.360199,
+   "regionId": 35,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 4678320.74,
+   "difference": 112.481267,
+   "regionId": null,
+   "federalRegionId": 7,
+   "heatMapType": 3
+  },
+  {
+   "value": 17856545.309,
+   "difference": 196.614495,
+   "regionId": null,
+   "federalRegionId": 1,
+   "heatMapType": 1
+  },
+  {
+   "value": 786396.76,
+   "difference": 110.967897,
+   "regionId": 26,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 136273.207,
+   "difference": 110.682558,
+   "regionId": 4,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 796025.797,
+   "difference": 104.617584,
+   "regionId": 27,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 388298.826,
+   "difference": 114.665495,
+   "regionId": 30,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 78452.079,
+   "difference": 126.422335,
+   "regionId": 85,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 89620.476,
+   "difference": 134.730251,
+   "regionId": 61,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 110141.217,
+   "difference": 106.232601,
+   "regionId": 52,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 344690.163,
+   "difference": 100.679347,
+   "regionId": 48,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 169675.294,
+   "difference": 111.302428,
+   "regionId": 56,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 102198.591,
+   "difference": 106.386484,
+   "regionId": 59,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 4985483.069,
+   "difference": 111.328098,
+   "regionId": null,
+   "federalRegionId": 4,
+   "heatMapType": 3
+  },
+  {
+   "value": 171560.994,
+   "difference": 127.427,
+   "regionId": 25,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 238225.049,
+   "difference": 105.095048,
+   "regionId": 40,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 252800.699,
+   "difference": 129.777872,
+   "regionId": 1,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 277149.12,
+   "difference": 121.034925,
+   "regionId": 51,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 378977.456,
+   "difference": 117.29833,
+   "regionId": 47,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 248301.481,
+   "difference": 123.651509,
+   "regionId": 57,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 256637.076,
+   "difference": 114.003955,
+   "regionId": 60,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1733669.769,
+   "difference": 107.356142,
+   "regionId": 29,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 178618.146,
+   "difference": 119.391203,
+   "regionId": 24,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 301952.421,
+   "difference": 112.768933,
+   "regionId": 54,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 883141.801,
+   "difference": 116.640707,
+   "regionId": 28,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 227217.147,
+   "difference": 107.806259,
+   "regionId": 50,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 336666.547,
+   "difference": 111.724542,
+   "regionId": 46,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 612834.551,
+   "difference": 107.812778,
+   "regionId": 58,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 160817.679,
+   "difference": 111.680213,
+   "regionId": 5,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 238282.921,
+   "difference": 114.602409,
+   "regionId": 9,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 2777984.128,
+   "difference": 139.837386,
+   "regionId": 53,
+   "federalRegionId": null,
+   "heatMapType": 3
+  },
+  {
+   "value": 1833905.05,
+   "difference": 113.752282,
+   "regionId": 15,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 191038.822,
+   "difference": 115.267178,
+   "regionId": 49,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 436905.74,
+   "difference": 121.743851,
+   "regionId": 55,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 10741754.38,
+   "difference": 326.628767,
+   "regionId": 45,
+   "federalRegionId": null,
+   "heatMapType": 1
+  },
+  {
+   "value": 165353.087,
+   "difference": 120.321469,
+   "regionId": 13,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1140307.683,
+   "difference": 110.380645,
+   "regionId": 8,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 931504.666,
+   "difference": 125.906582,
+   "regionId": 7,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 186254.69,
+   "difference": 125.577918,
+   "regionId": 12,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 556115.622,
+   "difference": 117.498341,
+   "regionId": 18,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 478885.765,
+   "difference": 111.866332,
+   "regionId": 6,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 662982.189,
+   "difference": 126.541924,
+   "regionId": 11,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 151494.611,
+   "difference": 117.8813,
+   "regionId": 16,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 349057.147,
+   "difference": 122.332137,
+   "regionId": 14,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 654118.245,
+   "difference": 102.890326,
+   "regionId": 10,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 91802.274,
+   "difference": 115.932567,
+   "regionId": 17,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 340099.019,
+   "difference": 141.960993,
+   "regionId": 83,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1552942.4,
+   "difference": 113.990667,
+   "regionId": 82,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 245008.139,
+   "difference": 113.93514,
+   "regionId": 81,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 264295.107,
+   "difference": 97.304647,
+   "regionId": 77,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 171874.821,
+   "difference": 101.016849,
+   "regionId": 80,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 84664.941,
+   "difference": 101.334957,
+   "regionId": 79,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 163628.489,
+   "difference": 132.569008,
+   "regionId": 62,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 1144570.41,
+   "difference": 100.121588,
+   "regionId": 63,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 444995.904,
+   "difference": 108.047923,
+   "regionId": 64,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 705873.035,
+   "difference": 102.001903,
+   "regionId": 65,
+   "federalRegionId": null,
+   "heatMapType": 4
+  },
+  {
+   "value": 2790215.251,
+   "difference": 169.80407,
+   "regionId": 78,
+   "federalRegionId": null,
+   "heatMapType": 3
+  }
+ ]
+}

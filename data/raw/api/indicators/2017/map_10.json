@@ -1,0 +1,64 @@
+{
+ "year": 2017,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 57,
+   "name": "Всего по администрируемым доходам в КБ РФ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 20.132,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 58,
+   "name": "Налог на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 3.818974,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 59,
+   "name": "НДФЛ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 3.773845,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 60,
+   "name": "НДС",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 3.563527,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  },
+  {
+   "id": 61,
+   "name": "НДПИ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": null,
+   "value": 4.794535,
+   "valueDifference": null,
+   "unitValue": "%",
+   "unitDifference": ""
+  }
+ ]
+}

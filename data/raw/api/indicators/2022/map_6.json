@@ -1,0 +1,53 @@
+{
+ "year": 2022,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 35,
+   "name": "Всего доходов по страховым взносам",
+   "startYear": 2017,
+   "endYear": null,
+   "scale": "млн",
+   "value": 8400590.331,
+   "valueDifference": 103.948946,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 36,
+   "name": "ОПС",
+   "startYear": 2017,
+   "endYear": null,
+   "scale": "млн",
+   "value": 6196587.746,
+   "valueDifference": 103.752499,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 37,
+   "name": "ОСС",
+   "startYear": 2017,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 605003.143,
+   "valueDifference": 104.922083,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 38,
+   "name": "ОМС",
+   "startYear": 2017,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1598999.442,
+   "valueDifference": 104.348419,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

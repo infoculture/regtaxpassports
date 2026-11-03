@@ -1,0 +1,97 @@
+{
+ "year": 2016,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 27,
+   "name": "Всего поступило по администрируемым доходам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 14482884.26,
+   "valueDifference": 105.037491,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 28,
+   "name": "Налог на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 2770152.704,
+   "valueDifference": 106.591555,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 29,
+   "name": "НДФЛ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 3017278.923,
+   "valueDifference": 107.510092,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 30,
+   "name": "НДС на товары, реализуемые на территории РФ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 2657395.29,
+   "valueDifference": 108.538283,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 31,
+   "name": "Акцизы",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1293879.348,
+   "valueDifference": 127.551541,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 32,
+   "name": "Налоги на имущество",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1116938.601,
+   "valueDifference": 104.53896,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 33,
+   "name": "НДПИ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 2929407.888,
+   "valueDifference": 90.782818,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 34,
+   "name": "Налог, взимаемый в связи с применением УСН",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 287053.221,
+   "valueDifference": 112.94701,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

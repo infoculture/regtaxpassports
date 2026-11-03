@@ -1,0 +1,32 @@
+{
+ "built_at": "2026-11-03T10:54:46",
+ "tables": {
+  "theme": 13,
+  "territory": 99,
+  "export": 11,
+  "passport": 1032,
+  "sheet": 11728,
+  "sheet_column": 66137,
+  "sheet_row": 439068,
+  "value": 1831479,
+  "map_indicator": 706,
+  "map_indicator_value": 63915,
+  "passport_revision": 1,
+  "value_revision": 4,
+  "map_indicator_source": 667
+ },
+ "years": [
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024
+ ],
+ "warnings": []
+}

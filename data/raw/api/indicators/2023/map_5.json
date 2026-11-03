@@ -1,0 +1,97 @@
+{
+ "year": 2023,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 27,
+   "name": "Всего поступило по администрируемым доходам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 36182868.968,
+   "valueDifference": 107.743992,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 28,
+   "name": "Налог на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 7922394.006,
+   "valueDifference": 124.647185,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 29,
+   "name": "НДФЛ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 6537842.338,
+   "valueDifference": 114.140042,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 30,
+   "name": "НДС на товары, реализуемые на территории РФ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 7182379.619,
+   "valueDifference": 110.678952,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 31,
+   "name": "Акцизы",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": -676999.833,
+   "valueDifference": 145.465899,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 32,
+   "name": "Налоги на имущество",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1683111.365,
+   "valueDifference": 103.118586,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 33,
+   "name": "НДПИ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 9880943.91,
+   "valueDifference": 90.0651,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 34,
+   "name": "Налог, взимаемый в связи с применением УСН",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 951898.691,
+   "valueDifference": 107.563466,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

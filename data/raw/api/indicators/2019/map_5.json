@@ -1,0 +1,97 @@
+{
+ "year": 2019,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 27,
+   "name": "Всего поступило по администрируемым доходам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 22737273.32,
+   "valueDifference": 106.605144,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 28,
+   "name": "Налог на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 4543114.97,
+   "valueDifference": 110.807783,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 29,
+   "name": "НДФЛ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 3955215.621,
+   "valueDifference": 108.273505,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 30,
+   "name": "НДС на товары, реализуемые на территории РФ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 4257770.868,
+   "valueDifference": 119.111353,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 31,
+   "name": "Акцизы",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1277474.684,
+   "valueDifference": 85.554942,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 32,
+   "name": "Налоги на имущество",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 1350766.037,
+   "valueDifference": 96.70313,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 33,
+   "name": "НДПИ",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 6106392.213,
+   "valueDifference": 99.657653,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 34,
+   "name": "Налог, взимаемый в связи с применением УСН",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 492870.349,
+   "valueDifference": 116.743511,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "year": 2022,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 10,
+   "name": "Налоговая база для исчисления налога на прибыль организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 28695619.329,
+   "valueDifference": 105.218606,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 11,
+   "name": "Сумма НДС, исчисленная по налогооблагаемым объектам",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 67050464.975,
+   "valueDifference": 118.086231,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 12,
+   "name": "Налоговая база НДФЛ",
+   "startYear": 2015,
+   "endYear": null,
+   "scale": "млн",
+   "value": 82663462.853233,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 13,
+   "name": "Налоговая база налога на имущество организаций",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 62311118.74,
+   "valueDifference": 122.006898,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 14,
+   "name": "Налоговая база по земельному налогу",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 44703369.387,
+   "valueDifference": 103.247624,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 15,
+   "name": "Налоговая база по УСН",
+   "startYear": 2014,
+   "endYear": null,
+   "scale": "млн",
+   "value": 17875104.067,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 16,
+   "name": "База для исчисления страховых взносов",
+   "startYear": 2017,
+   "endYear": null,
+   "scale": "млн",
+   "value": 96616218.807,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

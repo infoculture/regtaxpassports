@@ -1,0 +1,86 @@
+{
+ "year": 2019,
+ "regionId": null,
+ "regionName": null,
+ "federalRegionId": 0,
+ "federalRegionName": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+ "indicators": [
+  {
+   "id": 50,
+   "name": "Сельское, лесное хозяйство, охота, рыболовство, рыбоводство",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 46209.57,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 51,
+   "name": "Добыча полезных ископаемых",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 60562.955,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 52,
+   "name": "Обрабатывающие производства",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 333241.265,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 53,
+   "name": "Строительство",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 306241.445,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 54,
+   "name": "Торговля оптовая и розничная, ремонт автотранспортных средств и мотоциклов",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 317502.212,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 55,
+   "name": "Деятельность гостиниц и предприятий общественного питания",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 12608.438,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  },
+  {
+   "id": 56,
+   "name": "Деятельность в области информации и связи",
+   "startYear": 2014,
+   "endYear": 2022,
+   "scale": "млн",
+   "value": 15621.697,
+   "valueDifference": null,
+   "unitValue": "₽",
+   "unitDifference": "%"
+  }
+ ]
+}

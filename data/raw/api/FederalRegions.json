@@ -1,0 +1,82 @@
+[
+ {
+  "id": 0,
+  "label": "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 0
+ },
+ {
+  "id": 1,
+  "label": "ЦЕНТРАЛЬНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 101
+ },
+ {
+  "id": 2,
+  "label": "СЕВЕРО-ЗАПАДНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 102
+ },
+ {
+  "id": 3,
+  "label": "СЕВЕРО-КАВКАЗСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 108
+ },
+ {
+  "id": 4,
+  "label": "ЮЖНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 103
+ },
+ {
+  "id": 5,
+  "label": "ПРИВОЛЖСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 104
+ },
+ {
+  "id": 6,
+  "label": "УРАЛЬСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 105
+ },
+ {
+  "id": 7,
+  "label": "СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 106
+ },
+ {
+  "id": 8,
+  "label": "ДАЛЬНЕВОСТОЧНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ",
+  "year": 2014,
+  "yearForPassport": 2014,
+  "parentId": null,
+  "code": 107
+ },
+ {
+  "id": 9,
+  "label": "ЮГО-ЗАПАДНЫЕ СУБЪЕКТЫ РФ",
+  "year": 2023,
+  "yearForPassport": 2027,
+  "parentId": null,
+  "code": 109
+ }
+]
